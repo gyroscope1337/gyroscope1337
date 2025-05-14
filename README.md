@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gyroscope1337
-- 👀 I’m interested in coding , gaming 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: you can never reach me XD
+- 👋 Hi, I’m @gyroscope1337 / Akshat (real name)
+- 👀 I’m interested in Programming, Gaming, Chess & much more! 
+- 🌱 I’m currently learning GoLang
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me: Instagram --> akshatt.1337
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always notorious!
 
